@@ -32,7 +32,7 @@ ob_start();
         <div class="row mb-4">
             <div class="col-md-6">
                 <strong>Customer</strong><br>
-                Alice Johnson<br>
+                Qistina Ain<br>
                 012-3456789
             </div>
             <div class="col-md-6 text-md-end">

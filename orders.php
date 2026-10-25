@@ -45,8 +45,8 @@ ob_start();
                     <label for="customer_num" class="form-label">Customer <span class="text-danger" aria-hidden="true">*</span></label>
                     <select name="customer_num" id="customer_num" class="form-control" required>
                         <option value="">Select Customer</option>
-                        <option value="C001">C001 - Alice Johnson</option>
-                        <option value="C002">C002 - Bob Williams</option>
+                        <option value="C001">C001 - Qistina Ain</option>
+                        <option value="C002">C002 - Ahmad Aslam</option>
                     </select>
                 </div>
             </div>
@@ -99,7 +99,7 @@ ob_start();
                         <td>O001</td>
                         <td>2026-10-03</td>
                         <td>Jane Smith</td>
-                        <td>Alice Johnson</td>
+                        <td>Qistina Ain</td>
                         <td>
                             <a href="#" class="btn btn-sm btn-warning"><i class="bi bi-pencil"></i></a>
                             <a href="#" class="btn btn-sm btn-danger"><i class="bi bi-trash"></i></a>
